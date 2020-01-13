@@ -1,8 +1,8 @@
 1. Oracle Java
 -
-        $ sudo add-apt-repository ppa:linuxuprising/java
-        $ sudo apt update
-        $ sudo apt install oracle-java11-installer
+$ sudo add-apt-repository ppa:linuxuprising/java
+$ sudo apt update
+$ sudo apt install oracle-java11-installer
 
 2. Mysql
 $ apt-get install mysql-server
